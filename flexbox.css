@@ -1,0 +1,41 @@
+    #titulo {  
+
+    /*    background-color: aquamarine;    */
+
+    float:left;
+    margin-top: 5px;
+    margin-left: 15px;
+    display:flex;
+    gap: 35px;
+    align-items: stretch;
+    flex-direction: column-reverse;
+    }
+    
+    ul{ 
+        /*    background-color: rgb(221, 255, 127);    */
+
+        flex-direction: row;
+        display:flex;
+        flex-wrap: nowrap;   
+        font-size: 30px;
+        justify-content: flex-end;
+        flex: auto;
+        gap: 120px;  
+        padding: 10px;
+        margin-right: 40px;
+        margin-top: 20px;
+    }
+
+#set {
+position: absolute;
+margin-top: 36%;
+margin-left:80%;
+}
+
+
+
+.audio{
+
+margin-left: 80%;
+
+}
